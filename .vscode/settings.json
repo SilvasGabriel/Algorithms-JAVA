@@ -3,6 +3,6 @@
         "src"
     ],
     "java.project.referencedLibraries": [
-       
+       "c:\\Users\\gabri\\Downloads\\Oracle_JDK-22\\lib\\jrt-fs.jar"
     ]
 }
