@@ -5,12 +5,12 @@ import java.util.Scanner;
  * 
  * Your teacher would like to make a program with the following characteristics:
  *  
- *  1.Read the data of a CPF in the format XXX.YYY.ZZZ-DD;
+ *  1.Read the data of a CPF in the format www.xxx.yyy-zz;
  *  2.Print the four numbers, one value per line.
  * 
  * Input
  * 
- * The entry consists of several test files. In each test file there is one line. The line has the following format XXX.YYY.ZZZ-DD, where XXX, YYY, ZZZ, DD are integers. As shown in the following input example.
+ * The entry consists of several test files. In each test file there is one line. The line has the following format www.xxx.yyy-zz, where www, xxx, yyy, zz are integers. As shown in the following input example.
  * 
  * Output
  * 
